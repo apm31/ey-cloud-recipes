@@ -12,3 +12,7 @@ package "media-gfx/wkhtmltopdf-bin" do
   version "0.12.2.1"
   action :install
 end
+
+ey_cloud_report "wkhtmltopdf" do
+  message "Installing wkhtmltopdf"
+end

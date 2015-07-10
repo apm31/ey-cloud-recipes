@@ -4,6 +4,8 @@
 #  }
 #end
 
+inlucde_recipe "wkhtmltopdf"
+
 # uncomment to deny access to /log, /config, and .git directories as well as any .yml files
 # include_recipe "deny-directories"
 
